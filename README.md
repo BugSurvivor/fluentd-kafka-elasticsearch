@@ -1,4 +1,4 @@
-fluentd with elasticsearch and kafka plugins
+fluentd with elasticsearch and kafka plugins. 
 
 ```bash
 docker pull jiandahao/fluentd-kafka-elasticsearch
